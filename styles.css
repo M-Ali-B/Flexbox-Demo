@@ -1,0 +1,19 @@
+.container {
+  display: flex;
+  background-color: aqua;
+  height: 500px;
+}
+
+.child {
+  border: 1px solid red;
+}
+
+.btn-section {
+  margin-top: 10px;
+}
+.btn {
+  padding: 10px 20px;
+  background-color: chocolate;
+  border: none;
+  border-radius: 4.6px;
+}
